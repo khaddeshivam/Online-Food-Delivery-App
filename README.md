@@ -2,6 +2,10 @@
 
 An **Online Food Delivery Web Application** designed to help users browse through a variety of restaurants, place food orders, and make secure payments. This platform is designed to provide a seamless experience for both customers and restaurant owners, with features like real-time order tracking, user authentication, and an intuitive user interface.
 
+### 🏠 Homepage
+
+![Homepage Screenshot](./screenshots/homepage.png)
+
 ## Key Features
 
 ### Customer Features:
@@ -138,8 +142,6 @@ Now, open `http://localhost:3000` in your browser to access the application.
 </ul>
 
 ## Links
-
-* [Web site](http://food.yoursite.com)
-* [Issue tracker](https://github.com/khaddeshivam/Online-Food-Delivery-Web-App/issues)
-* [Source code](https://github.com/khaddeshivam/Online-Food-Delivery-Web-App)
-
+* 🌐 **Live Site**: [https://online-food-delivery-app-eight.vercel.app](https://online-food-delivery-app-eight.vercel.app)
+* 🐞 [Issue Tracker](https://github.com/khaddeshivam/Online-Food-Delivery-Web-App/issues)
+* 🛠️ [Source Code](https://github.com/khaddeshivam/Online-Food-Delivery-Web-App)
