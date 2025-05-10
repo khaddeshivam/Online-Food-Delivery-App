@@ -143,9 +143,3 @@ Now, open `http://localhost:3000` in your browser to access the application.
 * [Issue tracker](https://github.com/khaddeshivam/Online-Food-Delivery-Web-App/issues)
 * [Source code](https://github.com/khaddeshivam/Online-Food-Delivery-Web-App)
 
-```
-
----
-
-This updated README includes all the badges and properly formatted sections, such as installation instructions, features, tech stack, and links to your profiles. Let me know if you'd like further adjustments!
-```
