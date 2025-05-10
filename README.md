@@ -4,7 +4,7 @@ An **Online Food Delivery Web Application** designed to help users browse throug
 
 ### 🏠 Homepage
 
-![Homepage Screenshot](./screenshots/99_banner.png)
+![Homepage Screenshot](.screenshots/99-banner.png)
 
 ## Key Features
 
